@@ -1,0 +1,53 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><title>PERFECT NUMBER</title></head><body><p dir="ltr"></p>
+<p dir="ltr">using System;&#13;<br>
+using System.Collections.Generic;&#13;<br>
+using System.Linq;&#13;<br>
+using System.Text.RegularExpressions;&#13;<br>
+&#13;<br>
+namespace PerfectNumber&#13;<br>
+{&#13;<br>
+&#9;public class Program&#13;<br>
+&#9;{&#13;<br>
+&#9;&#9;public static void Main(string[] args)&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; { &#13;<br>
+&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp;&nbsp;&nbsp; int s,e,w=0 ;&#13;<br>
+&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Console.WriteLine("Enter The Start : ");&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; s = int.Parse(Console.ReadLine());&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Console.WriteLine("Enter The End : ");&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e = int.Parse(Console.ReadLine());&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for (int n = s ; n &lt;= e; n++)&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; { &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;if (n&lt;=0) &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;continue;&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;w = 0 ;&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;for (int x = 1 ; x&lt;n ; x++)&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;{&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9; if&nbsp; (n%x==0) &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&nbsp; {&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&nbsp; &#9;&nbsp;&nbsp;&nbsp; w += x; &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&nbsp; }&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;}&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&nbsp; if (w==n)&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9; &#9;{&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9; &#9;&#9;Console.WriteLine("\t"+n);&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9; &#9;}&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;}&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9; &#9;&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9;&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Console.ReadKey();&#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#13;<br>
+&nbsp; &#9; }&#9;&#13;<br>
+&nbsp; }&#13;<br>
+&#9;&#13;<br>
+}</p>
+</body></html>

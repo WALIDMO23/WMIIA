@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FTPAPPLICATION", "FTPAPPLICATION\FTPAPPLICATION.csproj", "{FE8677F7-E96F-4BA3-9891-2D09314F544F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPServer", "FTPServer\FTPServer.csproj", "{7C2D9370-DA34-4894-8447-2BEA79736A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8677F7-E96F-4BA3-9891-2D09314F544F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8677F7-E96F-4BA3-9891-2D09314F544F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8677F7-E96F-4BA3-9891-2D09314F544F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8677F7-E96F-4BA3-9891-2D09314F544F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2D9370-DA34-4894-8447-2BEA79736A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2D9370-DA34-4894-8447-2BEA79736A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2D9370-DA34-4894-8447-2BEA79736A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2D9370-DA34-4894-8447-2BEA79736A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0717659-70EF-4EF9-92D1-191F5765E38A}
+	EndGlobalSection
+EndGlobal

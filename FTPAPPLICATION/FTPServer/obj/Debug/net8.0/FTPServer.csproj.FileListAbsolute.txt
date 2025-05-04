@@ -1,0 +1,14 @@
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\bin\Debug\net8.0\FTPServer.exe
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\bin\Debug\net8.0\FTPServer.deps.json
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\bin\Debug\net8.0\FTPServer.runtimeconfig.json
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\bin\Debug\net8.0\FTPServer.dll
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\bin\Debug\net8.0\FTPServer.pdb
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\FTPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\FTPServer.AssemblyInfoInputs.cache
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\FTPServer.AssemblyInfo.cs
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\FTPServer.csproj.CoreCompileInputs.cache
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\FTPServer.dll
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\refint\FTPServer.dll
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\FTPServer.pdb
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\FTPServer.genruntimeconfig.cache
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPServer\obj\Debug\net8.0\ref\FTPServer.dll

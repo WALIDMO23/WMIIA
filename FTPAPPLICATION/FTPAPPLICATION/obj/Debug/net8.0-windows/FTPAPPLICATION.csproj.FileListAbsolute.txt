@@ -1,0 +1,16 @@
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\bin\Debug\net8.0-windows\FTPAPPLICATION.exe
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\bin\Debug\net8.0-windows\FTPAPPLICATION.deps.json
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\bin\Debug\net8.0-windows\FTPAPPLICATION.runtimeconfig.json
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\bin\Debug\net8.0-windows\FTPAPPLICATION.dll
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\bin\Debug\net8.0-windows\FTPAPPLICATION.pdb
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.Form1.resources
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.csproj.GenerateResource.cache
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.AssemblyInfoInputs.cache
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.AssemblyInfo.cs
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.csproj.CoreCompileInputs.cache
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.dll
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\refint\FTPAPPLICATION.dll
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.pdb
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\FTPAPPLICATION.genruntimeconfig.cache
+D:\THIRD  YEAR  IT\Second Term\sara section\FTPAPPLICATION\FTPAPPLICATION\obj\Debug\net8.0-windows\ref\FTPAPPLICATION.dll

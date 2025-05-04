@@ -1,0 +1,17 @@
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\bin\Debug\net8.0\FTPServer.exe
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\bin\Debug\net8.0\FTPServer.deps.json
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\bin\Debug\net8.0\FTPServer.runtimeconfig.json
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\bin\Debug\net8.0\FTPServer.dll
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\bin\Debug\net8.0\FTPServer.pdb
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.AssemblyInfoInputs.cache
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.AssemblyInfo.cs
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.dll
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\refint\FTPServer.dll
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.pdb
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.genruntimeconfig.cache
+C:\Users\Mega Tech\source\repos\FTP with comments\FTP with comments\obj\Debug\net8.0\ref\FTPServer.dll
+D:\THIRD  YEAR  IT\Second Term\Network Programing\Weak 7\FTP with comments\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.dll
+D:\THIRD  YEAR  IT\Second Term\Network Programing\Weak 7\FTP with comments\FTP with comments\FTP with comments\obj\Debug\net8.0\refint\FTPServer.dll
+D:\THIRD  YEAR  IT\Second Term\Network Programing\Weak 7\FTP with comments\FTP with comments\FTP with comments\obj\Debug\net8.0\FTPServer.pdb
